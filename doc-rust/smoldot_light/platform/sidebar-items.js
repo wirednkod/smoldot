@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PlatformConnection","PlatformSubstreamDirection","ReadBuffer"],"mod":["default"],"struct":["ConnectError"],"trait":["PlatformRef"]};
